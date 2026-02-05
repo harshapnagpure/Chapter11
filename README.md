@@ -23,22 +23,6 @@ I practiced the following inheritance concepts:
 
 ---
 
-## Practice Programs
-
-Some example programs included in this repository:
-
-- Basic Parent → Child Class Example
-- Employee → Programmer Class
-- Animal → Dog Class
-- Vehicle → Car → Electric Car
-- Multiple Parent Class Example
-- Method Overriding Demo
-- super() Function Usage
-
-(All codes are uploaded with proper practice and execution.)
-
----
-
 ## Learning Source
 
 I learned these concepts from:
